@@ -1,0 +1,1064 @@
+{
+  "title": "The history of the car gearbox",
+  "tagline": "2,100 years from bronze gearwheels in a Greek shipwreck to gearboxes that shift themselves, and electric cars that need only one gear.",
+  "intro": "People have meshed toothed wheels together for more than two thousand years, to trade speed for strength. When the petrol engine arrived, it had a problem: it only pulls well in a narrow band of speeds, so a car needs a box of different gear ratios between engine and wheels. For the next 130 years engineers worked to make changing those ratios quieter, easier and finally automatic. Today a computer can shift in a blink, and the electric motor is strong enough at every speed to get by with a single gear.",
+  "eras": [
+    {
+      "id": "teeth",
+      "name": "Wheels with teeth",
+      "from": -200,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "Long before engines, craftsmen cut gears for calculating machines, mills and clocks, and sketched ways to change speed by swapping one gear for another."
+    },
+    {
+      "id": "crash",
+      "name": "Gears meet the engine",
+      "from": 1800,
+      "to": 1910,
+      "color": "#ffb547",
+      "summary": "The differential lets two driven wheels turn a corner. The first cars get sliding gears that crunch, a top gear that drives straight through, and the first attempts at shifting without a driver."
+    },
+    {
+      "id": "quiet",
+      "name": "No more grinding",
+      "from": 1910,
+      "to": 1945,
+      "color": "#ff7a59",
+      "summary": "Synchromesh ends the crunch, fluid replaces the clutch pedal in some cars, and by 1939 a gearbox can change all its gears by itself."
+    },
+    {
+      "id": "twopedal",
+      "name": "Two pedals for everyone",
+      "from": 1945,
+      "to": 1980,
+      "color": "#5ce1a9",
+      "summary": "Torque converters make automatics smooth, overdrive calms the engine on fast roads, and a small Dutch car proves that a gearbox can have no steps at all."
+    },
+    {
+      "id": "chips",
+      "name": "Computers take the lever",
+      "from": 1980,
+      "to": 2010,
+      "color": "#7aa2ff",
+      "summary": "Electronics and steel belts bring the CVT back, two clutches make shifts almost instant, and automatics climb from four gears to eight."
+    },
+    {
+      "id": "one",
+      "name": "More gears, or just one",
+      "from": 2010,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Automatics reach ten speeds and India discovers the low-cost automated manual, while most electric cars drop the gearbox for one fixed gear."
+    }
+  ],
+  "events": [
+    {
+      "year": -100,
+      "date": "c. 150–100 BCE",
+      "era": "teeth",
+      "art": "gear",
+      "key": true,
+      "title": "Bronze gears under the sea",
+      "who": "Unknown Greek craftsmen",
+      "where": "Found off Antikythera, Greece",
+      "country": "Greece",
+      "text": "In 1901, divers pulled a lump of corroded bronze from a Roman-era shipwreck near the island of Antikythera. Inside were about 30 hand-cut gearwheels. Turning a handle moved pointers that showed the positions of the Sun and Moon and predicted eclipses.",
+      "why": "It is the oldest known machine built from trains of gears, each pair setting a fixed ratio between one shaft and the next.",
+      "box": "ratios",
+      "sources": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "year": 250,
+      "date": "c. 250 CE",
+      "era": "teeth",
+      "art": "compass",
+      "title": "A chariot that pointed south",
+      "who": "Ma Jun (c. 200–265)",
+      "where": "Kingdom of Wei, China",
+      "country": "China",
+      "text": "Chinese legend gives the south-pointing chariot to the Yellow Emperor, but the first builder historians can document is the engineer Ma Jun. Gears driven by the road wheels kept a wooden figure pointing the same way however the chariot turned. In 1947 the English engineer George Lanchester suggested it used a differential gear, but that is a modern guess and scholars still disagree.",
+      "why": "It shows gears being used to compare the turning of two wheels, the very job a car's differential does.",
+      "box": "diff",
+      "sources": [
+        6,
+        2
+      ]
+    },
+    {
+      "year": 1490,
+      "date": "c. 1480–1519",
+      "era": "teeth",
+      "art": "quill",
+      "title": "Leonardo sketches a change of speed",
+      "who": "Leonardo da Vinci",
+      "where": "Italy",
+      "country": "Italy",
+      "text": "In the notebook pages now called the Codex Atlanticus, Leonardo drew a cone-shaped lantern gear meshing with three toothed wheels of different sizes. Turn the crank and each wheel spins at a different speed. He is often credited with the idea of a stepless drive too, though the drawings are sketches and nobody knows if he built them.",
+      "why": "One input and a choice of output speeds: that is the whole idea of a gearbox, drawn four centuries before the car.",
+      "box": "ratios",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1827,
+      "date": "1827, patent filed 25 April 1828",
+      "era": "crash",
+      "art": "scroll",
+      "key": true,
+      "title": "A clockmaker's differential",
+      "who": "Onésiphore Pecqueur",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Pecqueur, a prize-winning clockmaker at the Conservatoire des Arts et Métiers, designed a steam wagon with an engine driving the rear wheels. In a corner the outer wheel must travel further than the inner one, so he placed a set of gears on the axle that let the two wheels turn at different speeds while both were driven. Differential gears had been used in clocks since about 1720.",
+      "why": "It is the first known differential on a driven road axle, and almost every car has had one since.",
+      "box": "diff",
+      "sources": [
+        8,
+        9,
+        2
+      ]
+    },
+    {
+      "year": 1877,
+      "date": "1877",
+      "era": "crash",
+      "art": "bicycle",
+      "title": "A differential for pedal power",
+      "who": "James Starley",
+      "where": "Coventry, England",
+      "country": "United Kingdom",
+      "text": "Starley was testing a two-seat pedal machine with his son William when it kept swerving, because one rider pushed harder than the other. He is said to have cried “I have it!” and designed a differential to share the drive between the wheels. He patented it in 1877 and fitted it to his Salvo cycles. Some sources give 1876.",
+      "why": "His compact differential passed from cycles to the first cars: Carl Benz used a very similar one in 1885.",
+      "box": "diff",
+      "sources": [
+        10,
+        11,
+        12,
+        2
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "1891–1895",
+      "era": "crash",
+      "art": "oldcar",
+      "key": true,
+      "title": "“Brutal, but it works”",
+      "who": "Émile Levassor and René Panhard",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Levassor put the engine at the front, a clutch behind it, and then a set of gears that the driver slid into mesh with a lever, driving the rear wheels. The first version had three speeds and its gears ran in the open air. They clashed loudly on every change. Levassor is widely quoted as saying it was brutal, but it worked, and by 1895 the gears sat inside a closed case.",
+      "why": "Engine, clutch, gearbox, driven rear wheels: the Système Panhard became the pattern for cars for the next hundred years.",
+      "box": "path",
+      "sources": [
+        13,
+        14,
+        15,
+        59
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "24 December 1898",
+      "era": "crash",
+      "art": "gearbox",
+      "key": true,
+      "title": "A top gear that drives straight through",
+      "who": "Louis Renault",
+      "where": "Rue Lepic, Montmartre, Paris, France",
+      "country": "France",
+      "text": "Renault, aged 21, built a tiny car with a three-speed gearbox in which top gear locked the input shaft directly to the output shaft, so no gears carried the load. A shaft, not a chain, took the drive to the rear axle. On Christmas Eve he won a bet by driving it up the steep Rue Lepic, and left with a dozen or so orders. He filed his patent, number 285,753, on 9 February 1899.",
+      "why": "Direct drive wasted less power and made less noise, and other car makers paid Renault to use it.",
+      "box": "anatomy",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904–1905",
+      "era": "crash",
+      "art": "wrench",
+      "title": "A gearbox that tried to shift itself",
+      "who": "Thomas J. Sturtevant and the Sturtevant Mill Company",
+      "where": "Boston, Massachusetts, USA",
+      "country": "United States",
+      "text": "The Sturtevant company showed a car whose gearbox changed between low and high by itself. Weights spun outwards as the engine sped up and squeezed clutches together to pick the higher gear. The materials of the day were not strong enough, and the spinning parts often broke apart.",
+      "why": "It is often called the first automatic transmission, about 35 years before one really worked.",
+      "box": "auto",
+      "sources": [
+        1,
+        18
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "24 June 1905",
+      "era": "crash",
+      "art": "boat",
+      "title": "Power passed through oil",
+      "who": "Hermann Föttinger",
+      "where": "AG Vulcan shipyard, Stettin, Germany (today Szczecin, Poland)",
+      "country": "Germany",
+      "text": "Föttinger had to connect fast steam turbines to slow ship propellers. He put a pump wheel facing a turbine wheel in a sealed case of fluid, so one wheel flung the fluid and the other was pushed round by it. His 1905 patents covered both the simple fluid coupling and the torque converter, which adds a third wheel to multiply the turning force.",
+      "why": "The torque converter built for ships is the part that lets an automatic car sit still with its engine running.",
+      "box": "auto",
+      "sources": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "October 1908",
+      "era": "crash",
+      "art": "car",
+      "title": "Gears changed with your feet",
+      "who": "Ford Motor Company",
+      "where": "Detroit, Michigan, USA",
+      "country": "United States",
+      "text": "The Ford Model T had no sliding gears to crunch. It used planetary gears, small gears circling a central one, and bands that gripped drums to pick a ratio. Press the left pedal for low, let it up for high, and press the middle pedal for reverse.",
+      "why": "More than 15 million drivers learned on planetary gears, the same kind that sit inside almost every later automatic.",
+      "box": "auto",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "August 1926",
+      "era": "quiet",
+      "art": "road",
+      "title": "A lower, quieter final drive",
+      "who": "Gleason Works and Packard",
+      "where": "Rochester, New York, and Detroit, Michigan, USA",
+      "country": "United States",
+      "text": "In 1925 the Gleason gear company worked out how to cut hypoid gears, where the small pinion meets the big ring gear below its centre. Packard put them in the rear axles of all its cars in 1926. The teeth overlap more, so they run quietly and carry more force.",
+      "why": "A lower pinion means a lower propeller shaft and a lower floor, which is why most rear axles still use hypoid gears.",
+      "box": "diff",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "August 1928",
+      "era": "quiet",
+      "art": "gear",
+      "key": true,
+      "title": "Synchromesh ends the crunch",
+      "who": "Earl A. Thompson and Cadillac",
+      "where": "Detroit, Michigan, USA",
+      "country": "United States",
+      "text": "Thompson, an engineer from Oregon, invented a cone-shaped clutch in 1918 that brought two gears to the same speed before their teeth met. He patented it in 1922, but car makers told him drivers were happy as they were. Cadillac finally hired him, and after more than two dozen prototypes put his Synchro-Mesh gearbox into production for its 1929 Cadillac and LaSalle cars.",
+      "why": "Drivers no longer had to double-declutch and judge engine speed by ear, so far more people could drive well.",
+      "box": "synchro",
+      "sources": [
+        25,
+        26,
+        0
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1928–1930",
+      "era": "quiet",
+      "art": "hydraulic",
+      "title": "Choose the gear now, change it later",
+      "who": "Walter Gordon Wilson, Percy Martin and Daimler",
+      "where": "Coventry, England",
+      "country": "United Kingdom",
+      "text": "Wilson, the Irish engineer who helped invent the tank, built a gearbox from planetary gears in 1928. The driver picked the next gear with a small lever, and it only engaged when a pedal was pressed. In 1930 Daimler joined it to a fluid flywheel, a Föttinger coupling adapted by Harold Sinclair, so the car could stop in gear without stalling.",
+      "why": "Planetary gears plus a fluid coupling is the recipe of the automatic gearbox, missing only a way to shift by itself.",
+      "box": "auto",
+      "sources": [
+        27,
+        21,
+        57
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935–1939",
+      "era": "quiet",
+      "art": "person",
+      "title": "Two clutches on paper",
+      "who": "Adolphe Kégresse",
+      "where": "France",
+      "country": "France",
+      "text": "Kégresse had built half-track cars for the Russian tsar and for Citroën. In the 1930s he designed a gearbox with two clutches, one for the odd gears and one for the even gears, so the next gear could be ready before the last one let go. It was meant for the Citroën Traction Avant, but sources say he ran out of money before a working version was finished.",
+      "why": "The idea waited almost fifty years for the electronics that could make it work.",
+      "box": "auto",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "October 1939",
+      "era": "quiet",
+      "art": "car",
+      "key": true,
+      "title": "The Hydra-Matic: no clutch pedal at all",
+      "who": "Earl A. Thompson and General Motors",
+      "where": "Detroit, Michigan, USA",
+      "country": "United States",
+      "text": "The same Earl Thompson led the team behind the Hydra-Matic, a $57 option on the 1940 Oldsmobile. A fluid coupling replaced the clutch, and oil pressure worked three sets of planetary gears to give four forward speeds. About 200,000 were sold before car production stopped in 1942, and versions of it then drove American M5 Stuart and M24 Chaffee tanks in the Second World War.",
+      "why": "It was the first mass-produced fully automatic transmission, and it proved that automatics could be tough.",
+      "box": "auto",
+      "sources": [
+        30,
+        31,
+        1
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948 model year",
+      "era": "twopedal",
+      "art": "hydraulic",
+      "title": "The torque converter reaches the showroom",
+      "who": "Buick",
+      "where": "Flint, Michigan, USA",
+      "country": "United States",
+      "text": "Buick's Dynaflow, first offered on the 1948 Roadmaster, was the first car automatic to use a torque converter. It grew out of a transmission Buick built for wartime tanks such as the M18 Hellcat. In normal driving it did not change gear at all: the converter alone multiplied the engine's turning force, which felt very smooth and used a lot of fuel.",
+      "why": "Nearly every later automatic kept the torque converter and added gear changes to it.",
+      "box": "auto",
+      "sources": [
+        32,
+        1
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948",
+      "era": "twopedal",
+      "art": "speedo",
+      "title": "Overdrive: a gear for the open road",
+      "who": "Edgar de Normanville and Laycock Engineering",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "An overdrive is a ratio below 1:1, so the wheels' shaft turns faster than the engine. De Normanville's unit bolted on behind the gearbox and switched in at the flick of a switch, and it first went on sale in the 1948 Standard Vanguard. Borg-Warner had sold overdrives in American cars since the 1930s. Laycock went on to build more than three and a half million.",
+      "why": "A slower-turning engine at speed means less noise, less wear and less fuel, which is why modern top gears are overdrives.",
+      "box": "ratios",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "1951 model year",
+      "era": "twopedal",
+      "art": "gearbox",
+      "title": "Three speeds and a converter",
+      "who": "Borg-Warner and Ford",
+      "where": "USA",
+      "country": "United States",
+      "text": "Borg-Warner's Warner Gear division designed the Ford-O-Matic, which joined a torque converter to a three-speed planetary gearbox that shifted without a break in power. Chrysler's 1956 TorqueFlite and GM's 1964 Turbo Hydramatic followed the same plan. By the late 1960s the three-speed torque converter automatic was the standard design.",
+      "why": "This layout ruled automatic cars for about thirty years and spread the P-R-N-D-L selector.",
+      "box": "auto",
+      "sources": [
+        34,
+        1
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "patented 1947, in the Porsche 356 from 1952",
+      "era": "twopedal",
+      "art": "wrench",
+      "title": "Porsche's synchro ring",
+      "who": "Ferdinand Porsche's design office and Leopold Schmid",
+      "where": "Gmünd, Austria, and Stuttgart, Germany",
+      "country": "Germany",
+      "text": "Porsche patented a compact synchroniser built around a split steel ring in 1947, first drawn for the Cisitalia racing car. From 1952 the Porsche 356 had a gearbox, led by Leopold Schmid, with synchromesh on all four forward gears. Porsche licensed the design widely, and one source says licensees were building a million such gearboxes a year by 1970.",
+      "why": "Synchromesh on every forward gear, including first, became normal in ordinary cars.",
+      "box": "synchro",
+      "sources": [
+        0,
+        35
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1957–2014",
+      "era": "twopedal",
+      "art": "steering",
+      "title": "The Ambassador's column shift",
+      "who": "Hindustan Motors",
+      "where": "Uttarpara, West Bengal, India",
+      "country": "India",
+      "text": "The Hindustan Ambassador, based on Britain's Morris Oxford Series III, had its four-speed gear lever on the steering column, not the floor. That left room for a front bench seat and a third person. A five-speed gearbox with a floor lever arrived in 1992 with the 1800 ISZ model.",
+      "why": "For decades, changing gear in India meant the Ambassador's long column lever, in taxis and ministers' cars alike.",
+      "box": "anatomy",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "7 February 1958",
+      "era": "twopedal",
+      "art": "chain",
+      "key": true,
+      "title": "A car with no gears to change",
+      "who": "Hub van Doorne and DAF",
+      "where": "Amsterdam and Eindhoven, Netherlands",
+      "country": "Netherlands",
+      "text": "At the Amsterdam motor show, the truck maker DAF unveiled the little DAF 600. Its Variomatic drive used rubber belts running between pairs of cone-shaped pulleys that moved together or apart, so the ratio changed smoothly with no steps. DAF took about 4,000 orders after the show. Early cars could go as fast backwards as forwards.",
+      "why": "It was the first mass-produced car with a continuously variable transmission, or CVT.",
+      "box": "auto",
+      "sources": [
+        37,
+        39,
+        38,
+        58
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "14 December 1983",
+      "era": "chips",
+      "art": "car",
+      "title": "India learns to shift in a Maruti 800",
+      "who": "Maruti Udyog and Suzuki",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "Prime Minister Indira Gandhi handed over the keys of the first Maruti 800 to Harpal Singh, who had won it in a draw. The small front-wheel-drive car had a light four-speed manual gearbox with a floor lever. A five-speed version came in 2000, and about 2.87 million were built before production ended in January 2014.",
+      "why": "Millions of Indian families learned to drive, and to change gear, in this car.",
+      "box": "anatomy",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1983–1986",
+      "era": "chips",
+      "art": "trophy",
+      "title": "Two clutches win a race",
+      "who": "Porsche",
+      "where": "Weissach, Germany, and Monza, Italy",
+      "country": "Germany",
+      "text": "Porsche revived Kégresse's two-clutch idea with electronic control and called it PDK, short for Porsche Doppelkupplung. It was tested in the 956 racing car in 1983. In 1986 a 962 C fitted with PDK won a world championship race at Monza. Drivers could keep full power on through each shift and both hands on the wheel.",
+      "why": "Racing proved that a dual-clutch gearbox could shift faster than any human with a lever.",
+      "box": "auto",
+      "sources": [
+        41,
+        42,
+        29
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987",
+      "era": "chips",
+      "art": "bolt",
+      "title": "The CVT gets a steel belt",
+      "who": "Van Doorne's Transmissie, Subaru, Ford and Fiat",
+      "where": "Tilburg, Netherlands, and Japan",
+      "country": "Netherlands",
+      "text": "Rubber belts could not cope with bigger engines. Van Doorne's Transmissie, set up in 1972, developed a belt made of hundreds of thin steel pieces that push one another around the pulleys. In 1987 it reached the road in the Subaru Justy, with electronic control, and in the Ford Fiesta and Fiat Uno. In late 1999 Audi’s Multitronic went a different way, with a steel chain that pulls.",
+      "why": "The steel push belt made the CVT strong enough for ordinary cars, and millions of scooters and small cars now have no fixed gears.",
+      "box": "auto",
+      "sources": [
+        38,
+        37,
+        43,
+        44
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "chips",
+      "art": "gearbox",
+      "key": true,
+      "title": "The dual-clutch gearbox goes on sale",
+      "who": "Volkswagen and BorgWarner",
+      "where": "Wolfsburg, Germany",
+      "country": "Germany",
+      "text": "The Volkswagen Golf R32 offered a six-speed DSG, short for Direktschaltgetriebe or direct-shift gearbox, developed with BorgWarner. One clutch handles gears 1, 3 and 5 and the other handles 2, 4 and 6, so the next gear is always waiting. Volkswagen's own figures put the DSG car at 6.4 seconds to 100 km/h, against 6.6 for the manual.",
+      "why": "It was the first mass-production car with a dual-clutch transmission, and it shifted faster than a manual while using less fuel.",
+      "box": "auto",
+      "sources": [
+        29,
+        45,
+        46
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006–2017",
+      "era": "chips",
+      "art": "speedo",
+      "title": "Eight gears, then nine, then ten",
+      "who": "Toyota and Aisin, ZF, Ford and General Motors",
+      "where": "Japan, Germany and USA",
+      "country": "Japan",
+      "text": "Automatics went from four speeds to five in 1989, six in 2002 and seven in 2003. The Lexus LS 460, shown in January 2006, had the world’s first eight-speed automatic, and ZF’s 8HP followed in the BMW 7 Series. ZF’s nine-speed reached the Range Rover Evoque in 2013, and for 2017 came ten speeds: Toyota’s in the Lexus LC, and one developed jointly by rivals Ford and General Motors.",
+      "why": "More gears keep the engine near its most efficient speed, whatever the car is doing.",
+      "box": "ratios",
+      "sources": [
+        1,
+        47,
+        48,
+        49,
+        56
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "September 2008",
+      "era": "chips",
+      "art": "battery",
+      "title": "The electric car drops its gearbox",
+      "who": "Tesla Motors and BorgWarner",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "The Tesla Roadster was designed with a two-speed gearbox, but the motor's instant pull kept wrecking it, and early cars were delivered locked in second gear. From September 2008 Tesla fitted a single fixed gear with a ratio of about 8.28 to 1. The motor could spin to 14,000 rpm, so one gear covered everything from a standstill to top speed.",
+      "why": "An electric motor pulls hard from zero, so most electric cars since have needed only one reduction gear.",
+      "box": "ratios",
+      "sources": [
+        50
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "6 February 2014",
+      "era": "one",
+      "art": "chip",
+      "key": true,
+      "title": "India's first AMT car",
+      "who": "Maruti Suzuki and Magneti Marelli",
+      "where": "Auto Expo 2014, Delhi region, India",
+      "country": "India",
+      "text": "The Maruti Suzuki Celerio offered Auto Gear Shift, an automated manual transmission or AMT. It is an ordinary manual gearbox with an electro-hydraulic unit, supplied by Italy's Magneti Marelli, that works the clutch and moves the gears for you. It was rated at 23.1 km per litre, the same as the manual car. In May 2015 Tata put a five-speed AMT in the tiny Nano.",
+      "why": "It made two-pedal driving cheap enough for India's small cars, with no loss of mileage.",
+      "box": "auto",
+      "sources": [
+        52,
+        53
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "4 September 2019",
+      "era": "one",
+      "art": "motor",
+      "title": "An electric car with two gears",
+      "who": "Porsche",
+      "where": "Stuttgart, Germany",
+      "country": "Germany",
+      "text": "The Porsche Taycan has a two-speed gearbox on its rear axle. First gear, with a ratio of about 15 to 1, gives a hard launch. Second, about 8 to 1, is for efficient cruising and a top speed of 260 km/h.",
+      "why": "It shows that gear ratios still matter when engineers want both fierce acceleration and high speed from one motor.",
+      "box": "ratios",
+      "sources": [
+        51
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "18 October 2023",
+      "era": "one",
+      "art": "share",
+      "title": "A million Indian automatics",
+      "who": "Maruti Suzuki and Indian car buyers",
+      "where": "India",
+      "country": "India",
+      "text": "Maruti Suzuki said it had sold 10 lakh, or one million, automatic cars, and that 65% of them used the low-cost AMT. A report that day put automatics at nearly 29% of India's new passenger vehicles, up from 16% four years before.",
+      "why": "In crowded city traffic, a country that learned on manuals is moving quickly to two pedals.",
+      "box": "auto",
+      "sources": [
+        54,
+        55
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known geared machine",
+      "value": "c. 150–100 BCE",
+      "who": "Antikythera mechanism, Greece"
+    },
+    {
+      "label": "Differential on a driven road axle",
+      "value": "1827–28",
+      "who": "Onésiphore Pecqueur, France"
+    },
+    {
+      "label": "Sliding-gear car gearbox",
+      "value": "1891",
+      "who": "Émile Levassor, France"
+    },
+    {
+      "label": "Direct-drive top gear",
+      "value": "1898",
+      "who": "Louis Renault, France"
+    },
+    {
+      "label": "Production car with synchromesh",
+      "value": "1928",
+      "who": "Cadillac and Earl A. Thompson, USA"
+    },
+    {
+      "label": "Mass-produced fully automatic gearbox",
+      "value": "1939",
+      "who": "GM Hydra-Matic, USA"
+    },
+    {
+      "label": "Mass-produced car with a CVT",
+      "value": "1958",
+      "who": "DAF 600 Variomatic, Netherlands"
+    },
+    {
+      "label": "Mass-production car with a dual-clutch gearbox",
+      "value": "2003",
+      "who": "Volkswagen Golf R32, Germany"
+    },
+    {
+      "label": "AMT car in India",
+      "value": "2014",
+      "who": "Maruti Suzuki Celerio"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ma Jun",
+      "life": "c. 200 – 265",
+      "role": "Mechanical engineer",
+      "from": "China",
+      "note": "The first documented builder of a geared south-pointing chariot."
+    },
+    {
+      "name": "Onésiphore Pecqueur",
+      "life": "1792 – 1852",
+      "role": "Clockmaker and engineer",
+      "from": "France",
+      "note": "Put a differential on the driven axle of a steam wagon in his 1828 patent."
+    },
+    {
+      "name": "James Starley",
+      "life": "1830 – 1881",
+      "role": "Inventor and cycle maker",
+      "from": "England",
+      "note": "Patented a differential for cycles in 1877; called the father of the bicycle industry."
+    },
+    {
+      "name": "Émile Levassor",
+      "life": "1843 – 1897",
+      "role": "Engineer",
+      "from": "France",
+      "note": "Designed the Système Panhard: front engine, clutch, sliding-gear gearbox and rear drive."
+    },
+    {
+      "name": "Louis Renault",
+      "life": "1877 – 1944",
+      "role": "Engineer and industrialist",
+      "from": "France",
+      "note": "Patented the direct-drive top gear and built his company on it."
+    },
+    {
+      "name": "Hermann Föttinger",
+      "life": "1877 – 1945",
+      "role": "Engineer",
+      "from": "Germany",
+      "note": "Invented the fluid coupling and torque converter for ships in 1905."
+    },
+    {
+      "name": "Walter Gordon Wilson",
+      "life": "1874 – 1957",
+      "role": "Engineer",
+      "from": "Ireland",
+      "note": "Co-inventor of the tank who built the planetary preselector gearbox in 1928."
+    },
+    {
+      "name": "Adolphe Kégresse",
+      "life": "1879 – 1943",
+      "role": "Engineer",
+      "from": "France",
+      "note": "Half-track pioneer who designed a dual-clutch gearbox in the 1930s."
+    },
+    {
+      "name": "Earl A. Thompson",
+      "life": "1891 – 1967",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Invented synchromesh, then led the team that created the Hydra-Matic automatic."
+    },
+    {
+      "name": "Hub van Doorne",
+      "life": "1900 – 1979",
+      "role": "Engineer and founder of DAF",
+      "from": "Netherlands",
+      "note": "Created the Variomatic, the belt-and-pulley CVT of the DAF 600."
+    }
+  ],
+  "series": [
+    {
+      "id": "gears",
+      "title": "The most forward gears in a production automatic car",
+      "unit": "forward gears",
+      "log": false,
+      "after": "one",
+      "caption": "Each point is the first production car automatic with that many forward speeds: stuck at four for half a century, then a race from five to ten in under thirty years.",
+      "points": [
+        {
+          "year": 1940,
+          "value": 4,
+          "label": "GM Hydra-Matic, 1940 Oldsmobile: 4 speeds"
+        },
+        {
+          "year": 1989,
+          "value": 5,
+          "label": "Jatco 5R01, Nissan Cedric and Gloria: 5 speeds"
+        },
+        {
+          "year": 2002,
+          "value": 6,
+          "label": "ZF 6HP26, BMW 7 Series: 6 speeds"
+        },
+        {
+          "year": 2003,
+          "value": 7,
+          "label": "Mercedes-Benz 7G-Tronic: 7 speeds"
+        },
+        {
+          "year": 2006,
+          "value": 8,
+          "label": "Toyota AA80E, Lexus LS 460: 8 speeds"
+        },
+        {
+          "year": 2013,
+          "value": 9,
+          "label": "ZF 9HP, Range Rover Evoque: 9 speeds"
+        },
+        {
+          "year": 2017,
+          "value": 10,
+          "label": "Toyota Direct Shift-10A, Lexus LC, and the Ford and GM 10-speed: 10 speeds"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Earl Thompson took his synchromesh gearbox to Detroit in 1922 and was told that drivers were happy with gearboxes as they were. Six years later Cadillac built it.",
+    "The torque converter in an automatic car was invented in 1905 for steamships, to link fast turbines to slow propellers.",
+    "Early DAF Variomatic cars could drive backwards as fast as forwards, and they dominated Dutch backward-driving races.",
+    "The first Tesla Roadsters were delivered with a two-speed gearbox locked in second gear, because first kept breaking.",
+    "On a Ford Model T the left pedal chose low or high gear, the middle pedal was reverse and the right pedal was the brake.",
+    "In 1940 a fully automatic Hydra-Matic gearbox cost an Oldsmobile buyer just $57 extra."
+  ],
+  "sources": [
+    {
+      "title": "Manual transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manual_transmission"
+    },
+    {
+      "title": "Automatic transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Automatic_transmission"
+    },
+    {
+      "title": "Differential (mechanical device)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Differential_(mechanical_device)"
+    },
+    {
+      "title": "Antikythera mechanism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    },
+    {
+      "title": "An Ancient Greek Astronomical Calculation Machine Reveals New Secrets",
+      "publisher": "Scientific American",
+      "url": "https://scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets"
+    },
+    {
+      "title": "UCL team solves Antikythera Mechanism mystery",
+      "publisher": "The Engineer",
+      "url": "https://www.theengineer.co.uk/ucl-team-solves-antikythera-mechanism-mystery"
+    },
+    {
+      "title": "South-pointing chariot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/South-pointing_chariot"
+    },
+    {
+      "title": "Three-speed gearbox (model after Codex Atlanticus, f. 77v)",
+      "publisher": "Museo Leonardiano, Vinci",
+      "url": "https://museoleonardiano.it/en/opera/three-speed-gearbox/"
+    },
+    {
+      "title": "Onésiphore Pecqueur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On%C3%A9siphore_Pecqueur"
+    },
+    {
+      "title": "The Engines of Our Ingenuity, episode 3358",
+      "publisher": "University of Houston",
+      "url": "https://engines.egr.uh.edu/episode/3358"
+    },
+    {
+      "title": "James Starley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Starley"
+    },
+    {
+      "title": "James Starley",
+      "publisher": "Grace's Guide to British Industrial History",
+      "url": "https://www.gracesguide.co.uk/James_Starley"
+    },
+    {
+      "title": "Father of the British bicycle industry",
+      "publisher": "The Coventry Society",
+      "url": "https://www.coventrysociety.org.uk/2024/12/18/father-of-the-british-bicycle-industry/"
+    },
+    {
+      "title": "Panhard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panhard"
+    },
+    {
+      "title": "René Panhard",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Rene-Panhard"
+    },
+    {
+      "title": "PH Origins: The manual gearbox",
+      "publisher": "PistonHeads",
+      "url": "https://www.pistonheads.com/news/ph-features/ph-origins-the-manual-gearbox/38508"
+    },
+    {
+      "title": "Louis Renault (industrialist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_Renault_(industrialist)"
+    },
+    {
+      "title": "Les débuts: Louis Renault et sa voiturette (1898–1914)",
+      "publisher": "Planète Renault",
+      "url": "https://www.planeterenault.com/15-histoire/18-entreprise/5387-1-debuts-louis-renault-sa-voiturette-1898-1914/"
+    },
+    {
+      "title": "The World's First Automatic Transmission: The Sturtevant Automatic Automobile",
+      "publisher": "Curbside Classic",
+      "url": "https://www.curbsideclassic.com/blog/tech/the-worlds-first-automatic-transmission-the-sturtevant-automatic-automobile"
+    },
+    {
+      "title": "Hermann Föttinger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hermann_F%C3%B6ttinger"
+    },
+    {
+      "title": "Mechanical engineering pioneers at Voith Turbo",
+      "publisher": "Voith",
+      "url": "https://voith.com/corp-en/voith-turbo-perspectives/mechanical-engineering-pioneers-at-voith-turbo.html"
+    },
+    {
+      "title": "Fluid coupling",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fluid_coupling"
+    },
+    {
+      "title": "Ford Model T",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ford_Model_T"
+    },
+    {
+      "title": "The Ford Model T Looks Simple Until You Get To The Transmission",
+      "publisher": "Jalopnik",
+      "url": "https://jalopnik.com/2195295/ford-model-t-simple-yet-complicated-planetary-transmission/"
+    },
+    {
+      "title": "1926: Packard Pioneers the Hypoid Final Drive",
+      "publisher": "Mac's Motor City Garage",
+      "url": "https://macsmotorcitygarage.com/1926-packard-pioneers-the-hypoid-final-drive/"
+    },
+    {
+      "title": "Earl A. Thompson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Earl_A._Thompson"
+    },
+    {
+      "title": "1929 Cadillac/LaSalle Synchro-Mesh Transmission: shifting is made simple and clashing of gears is ended",
+      "publisher": "Curbside Classic",
+      "url": "https://www.curbsideclassic.com/blog/tech/1929-cadillac-lasalle-synchro-mesh-transmission-shifting-is-made-simple-and-clashing-of-gears-is-ended"
+    },
+    {
+      "title": "Preselector gearbox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Preselector_gearbox"
+    },
+    {
+      "title": "Adolphe Kégresse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adolphe_K%C3%A9gresse"
+    },
+    {
+      "title": "Dual-clutch transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dual-clutch_transmission"
+    },
+    {
+      "title": "Hydramatic",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydramatic"
+    },
+    {
+      "title": "Inside the 1940 GM Hydra-Matic, The First Modern Automatic Transmission",
+      "publisher": "Mac's Motor City Garage",
+      "url": "https://macsmotorcitygarage.com/inside-th-1940-gm-hydra-matic-the-first-modern-automatic-transmission/"
+    },
+    {
+      "title": "Dynaflow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dynaflow"
+    },
+    {
+      "title": "Overdrive (mechanics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Overdrive_(mechanics)"
+    },
+    {
+      "title": "Ford-O-Matic (Cruise-O-Matic)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ford-O-Matic"
+    },
+    {
+      "title": "Automotive Dictionary: Porsche Split-Ring Synchromesh",
+      "publisher": "Unique Cars and Parts",
+      "url": "https://www.uniquecarsandparts.com.au/auto_terms_porsche_synchromesh"
+    },
+    {
+      "title": "Hindustan Ambassador",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hindustan_Ambassador"
+    },
+    {
+      "title": "Variomatic",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Variomatic"
+    },
+    {
+      "title": "Continuously variable transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Continuously_variable_transmission"
+    },
+    {
+      "title": "Auto's van toen: Het Pientere Pookje van DAF is 60 jaar",
+      "publisher": "AutoRAI",
+      "url": "https://autorai.nl/autos-van-toen-het-pientere-pookje-van-daf-is-60-jaar/"
+    },
+    {
+      "title": "Maruti 800",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maruti_800"
+    },
+    {
+      "title": "Porsche Dual Clutch Transmission",
+      "publisher": "Porsche",
+      "url": "https://dealer.porsche.com/my/penang/en-GB/Offers/Porsche-Dual-Clutch-Transmission"
+    },
+    {
+      "title": "The shifting history of Porsche's PDK transmission",
+      "publisher": "Hagerty",
+      "url": "https://hagerty.co.uk/articles/motorsport/the-shifting-history-of-porsches-pdk-transmission"
+    },
+    {
+      "title": "Production of the 100 millionth pushbelt",
+      "publisher": "Bosch Media Service",
+      "url": "https://www.bosch-presse.de/pressportal/de/en/production-of-the-100-millionth-pushbelt-266839.html"
+    },
+    {
+      "title": "Multitronic",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Multitronic"
+    },
+    {
+      "title": "How Dual-Clutch Transmissions Took Over the Sports Car World",
+      "publisher": "Motor1",
+      "url": "https://www.motor1.com/features/714996/dsg-tech-explainer/"
+    },
+    {
+      "title": "Direct-shift gearbox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Direct-shift_gearbox"
+    },
+    {
+      "title": "Lexus LS 460: flagship ultra luxury and an eight-speed auto transmission",
+      "publisher": "New Atlas",
+      "url": "https://newatlas.com/lexus-ls-460-flagship-ultra-luxury-and-an-eight-speed-auto-transmission/5010/"
+    },
+    {
+      "title": "ZF 8HP transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ZF_8HP_transmission"
+    },
+    {
+      "title": "ZF 9HP transmission for Range Rover Evoque: world's first nine-speed auto for a passenger car",
+      "publisher": "paultan.org",
+      "url": "https://paultan.org/2013/02/27/range-rover-evoque-nine-speed"
+    },
+    {
+      "title": "Tesla Roadster (first generation)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)"
+    },
+    {
+      "title": "Taycan: The powertrain: Pure performance",
+      "publisher": "Porsche Newsroom",
+      "url": "https://newsroom.porsche.com/en/products/taycan/powertrain-18555.html"
+    },
+    {
+      "title": "Auto Expo 2014: Maruti Suzuki launches AMT-equipped Celerio",
+      "publisher": "Autocar Professional",
+      "url": "https://autocarpro.in/news-national/auto-expo-2014-maruti-suzuki-launches-amt-equipped-celerio-4995"
+    },
+    {
+      "title": "Tata GenX Nano launched in India",
+      "publisher": "paultan.org",
+      "url": "https://paultan.org/2015/05/22/tata-genx-nano-launched-india/"
+    },
+    {
+      "title": "Maruti Suzuki, India's No. 1 automatic car maker, crosses 10 lakh automatic vehicle sales milestone",
+      "publisher": "Maruti Suzuki India",
+      "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2023/october/maruti-suzuki-indias-no-1-automatic-car-maker-crosses-10-lakh-automatic-vehicle-sales-milestone"
+    },
+    {
+      "title": "India is finally surmounting the psyche against automatic cars",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/news/biz-tech/2023/10/18/automatic-for-the-people-india-is-finally-surmounting-the-psyche-against-automatic-cars.amp.html"
+    },
+    {
+      "title": "Ford and GM joint-develop 10-speed automatic transmission for 2017 F-150",
+      "publisher": "S&P Global AutoTechInsight",
+      "url": "https://autotechinsight.spglobal.com/news/35589/editorial-ford-and-gm-joint-develop-10-speed-automatic-transmission-for-2017-f-150"
+    },
+    {
+      "title": "Walter Gordon Wilson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walter_Gordon_Wilson"
+    },
+    {
+      "title": "Hub van Doorne",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hub_van_Doorne"
+    },
+    {
+      "title": "Émile Levassor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89mile_Levassor"
+    }
+  ]
+}

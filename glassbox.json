@@ -1,0 +1,108 @@
+{
+  "slug": "gearboxclear",
+  "box": 146,
+  "date": "2026-10-04",
+  "title": "GearboxClear",
+  "question": "How does a car gear system work?",
+  "hook": "Three shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.",
+  "thumbText": "HOW A GEARBOX WORKS",
+  "field": "machines",
+  "minutes": 15,
+  "tags": [
+    "gearbox",
+    "gears",
+    "gear ratio",
+    "transmission",
+    "synchromesh",
+    "differential",
+    "automatic",
+    "CVT",
+    "dual clutch",
+    "AMT",
+    "car",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three shafts, and gears that never unmesh",
+      "text": "A classic manual gearbox has an input shaft from the clutch, a layshaft below it, and a main shaft out to the wheels. Every gear pair is always in mesh. The gears on the main shaft spin freely until a sliding collar locks one of them to the shaft."
+    },
+    {
+      "title": "Why an engine needs gears",
+      "text": "A petrol engine only pulls well between about 2,000 and 6,000 rpm, and cannot run near zero. The wheels need a big shove to start and a small one to cruise. Wheel torque is engine torque times the gear ratio times the final drive, so low gears multiply twist and high gears give speed."
+    },
+    {
+      "title": "Follow the power",
+      "text": "In first, the power goes down to the layshaft and back up through a 14-tooth gear driving 33: with the 22 to 31 input pair that makes 3.32 to 1. Fourth is direct, the two shafts locked as one. Fifth is an overdrive at 0.86. Reverse adds an idler gear that flips the direction."
+    },
+    {
+      "title": "Synchromesh matches the speeds",
+      "text": "The collar turns with the wheels and the gear with the engine side, so their teeth would clash. A brass baulk ring rubs on a cone on the gear, drags it to the shaft's speed in about a tenth of a second, and blocks the collar until the two match."
+    },
+    {
+      "title": "The differential shares the drive",
+      "text": "In the axle a 10-tooth pinion turns a 39-tooth crown wheel: the final drive. Inside the crown, spider gears let the outer wheel turn faster than the inner one in a corner. Their weakness: both wheels always get the same torque, so one wheel on mud can strand the car."
+    },
+    {
+      "title": "Four kinds of automatic",
+      "text": "A torque converter passes power through oil and uses planetary gear sets. A CVT runs a steel belt on two pairs of cones for stepless ratios. A dual-clutch gearbox keeps the next gear waiting on a second shaft. An AMT is a manual gearbox worked by actuators, which is why it pauses."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Gear ratio",
+      "def": "Turns of the input for one turn of the output, found from tooth counts: driven teeth divided by driving teeth, multiplied along the path."
+    },
+    {
+      "term": "Layshaft",
+      "def": "The countershaft: one solid cluster of gears that turns whenever the gearbox input turns."
+    },
+    {
+      "term": "Constant mesh",
+      "def": "A gearbox whose gear pairs stay meshed. You change gear by locking a different gear to its shaft with a sliding collar."
+    },
+    {
+      "term": "Direct drive and overdrive",
+      "def": "Direct drive locks input to output at 1 to 1. An overdrive gear has a ratio below 1, so the output turns faster than the engine."
+    },
+    {
+      "term": "Synchromesh",
+      "def": "A small cone clutch with a brass baulk ring that matches a gear's speed to the shaft before the collar engages."
+    },
+    {
+      "term": "Final drive",
+      "def": "The last gear pair, in the axle. Its ratio multiplies every gear's ratio, here 39 divided by 10, or 3.9."
+    },
+    {
+      "term": "Differential",
+      "def": "Gears that split the drive between two wheels while letting them turn at different speeds in a corner."
+    },
+    {
+      "term": "Torque converter",
+      "def": "An oil-filled coupling with a pump, a turbine and a stator. It replaces the clutch in a classic automatic and multiplies torque when pulling away."
+    },
+    {
+      "term": "Planetary gear set",
+      "def": "A sun gear, planet gears on a carrier and a ring gear. Holding one member and driving another gives different ratios without unmeshing anything."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "gearboxclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

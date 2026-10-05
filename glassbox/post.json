@@ -1,0 +1,126 @@
+{
+  "slug": "gearboxclear",
+  "box": 146,
+  "question": "How does a car gear system work?",
+  "url": "https://glassbox.how/e/gearboxclear/",
+  "app": "https://glassbox.how/gearboxclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,100 years from bronze gearwheels in a Greek shipwreck to gearboxes that shift themselves, and electric cars that need only one gear.\n\n100 BCE: Bronze gears under the sea\n1827: A clockmaker's differential\n1891: “Brutal, but it works”\n1898: A top gear that drives straight through\n1928: Synchromesh ends the crunch\n1939: The Hydra-Matic: no clutch pedal at all\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/gearboxclear/history (link in bio)\n\nThen play with how it works: glassbox.how/gearboxclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #gearbox #gears #gearratio #transmission #synchromesh #differential #history",
+      "youtube": {
+        "title": "The history of the car gearbox in 45 seconds #shorts",
+        "description": "2,100 years from bronze gearwheels in a Greek shipwreck to gearboxes that shift themselves, and electric cars that need only one gear.\n\n100 BCE · Bronze gears under the sea (Unknown Greek craftsmen)\n1827 · A clockmaker's differential (Onésiphore Pecqueur)\n1891 · “Brutal, but it works” (Émile Levassor and René Panhard)\n1898 · A top gear that drives straight through (Louis Renault)\n1928 · Synchromesh ends the crunch (Earl A. Thompson and Cadillac)\n1939 · The Hydra-Matic: no clutch pedal at all (Earl A. Thompson and General Motors)\n\n▶ Full history: https://glassbox.how/e/gearboxclear/history/\n▶ Play with it: https://glassbox.how/e/gearboxclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a car gear system work?\n\nThree shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.\n\n→ A manual gearbox has three shafts, and every gear pair inside it is always in mesh.\n→ An engine is only strong between about 2,000 and 6,000 rpm, but the wheels must go from zero to top speed.\n→ So the car climbs through its gears, and the rev counter draws a sawtooth.\n→ Push the lever and a collar slides sideways, locking one free-spinning gear to the output shaft.\n→ Fourth gear is direct: the two shafts lock into one bar and no gear teeth carry the load.\n\nPlay with it yourself. It's free and open source: glassbox.how/gearboxclear (link in bio)\n\nBox No. 146 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #gearbox #gears #gearratio #transmission #synchromesh #differential #automatic #cvt #dualclutch",
+    "carousel": "Swipe through: How does a car gear system work?\n\nThree shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.\n\nSave this for later, then play with the interactive version at glassbox.how/gearboxclear (link in bio).\n\nBox No. 146 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #gearbox #gears #gearratio #transmission #synchromesh #differential",
+    "youtube": {
+      "title": "How does a car gear system work? #shorts",
+      "description": "Three shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.\n\n▶ Play with it: https://glassbox.how/e/gearboxclear/\n⌘ Source code (MIT): https://github.com/bdeeps/gearboxclear\n\nBox No. 146 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a car gear system work? (interactive explainer)",
+      "description": "Three shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.\n\n▶ Play with the interactive version: https://glassbox.how/e/gearboxclear/\n⌘ Source code (MIT): https://github.com/bdeeps/gearboxclear\n\nIn this video:\n• Three shafts, and gears that never unmesh. A classic manual gearbox has an input shaft from the clutch, a layshaft below it, and a main shaft out to the wheels.\n• Why an engine needs gears. A petrol engine only pulls well between about 2,000 and 6,000 rpm, and cannot run near zero.\n• Follow the power. In first, the power goes down to the layshaft and back up through a 14-tooth gear driving 33: with the 22 to 31 input pair that makes 3.32 to 1.\n• Synchromesh matches the speeds. The collar turns with the wheels and the gear with the engine side, so their teeth would clash.\n• The differential shares the drive. In the axle a 10-tooth pinion turns a 39-tooth crown wheel: the final drive.\n• Four kinds of automatic. A torque converter passes power through oil and uses planetary gear sets.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a car gear system work?\n\nThree shafts, a row of gears that never unmesh, and a collar that slides to pick one.\n\nPlay with it: https://glassbox.how/e/gearboxclear/",
+    "linkedin": "How does a car gear system work?\n\nThree shafts, a row of gears that never unmesh, and a collar that slides to pick one. Open a five-speed gearbox in 3D, follow the power through every gear, and watch synchromesh match the speeds in slow motion.\n\n1. Three shafts, and gears that never unmesh\n2. Why an engine needs gears\n3. Follow the power\n4. Synchromesh matches the speeds\n5. The differential shares the drive\n6. Four kinds of automatic\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 146 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/gearboxclear/\nCode: https://github.com/bdeeps/gearboxclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-05T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-05T10:02:23.187Z"
+}
